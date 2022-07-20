@@ -1,2 +1,2 @@
-Pashok_Kalashnikov
-vipua2000228
+username
+password
